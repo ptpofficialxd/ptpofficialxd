@@ -2,7 +2,7 @@
 - 🌱 **Frontend :** HTML/CSS, JavaScript, jQuery, VueJS 
 - 🏠 **Backend :** Java, Python
 - 📊 **Database :** MongoDB, MySQL
-#### My Gears
+#### Accessories/Gears
 - Mouse : Logitech G Pro X Superlight, Zowie S1 Divina (Blue)
 - Mouse Pad : VAXEE PA, Xtrfy GP4 Retro, Steelseries QCK+ Limited Edition
 - Mouse Bungee : Zowie Camade
