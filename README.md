@@ -4,7 +4,7 @@
 - 📊 **Database :** MongoDB, MySQL
 #### Accessories/Gears
 - **Mouse :** Logitech G Pro X Superlight
-- **Mouse Pad :** Artizan FX Zero Soft XL, VAXEE PA, Xtrfy GP4 Retro, Steelseries QCK+
+- **Mouse Pad :** Artisan FX Zero Soft XL, VAXEE PA, Xtrfy GP4 Retro, Steelseries QCK+
 - **Mouse Bungee :** Zowie Camade
 - **Keyboard :** Royal Kludge RK84 with Gateron Milky Yellow Lubed, Kingston HyperX Alloy FPS
 - **Headset :** Kingston HyperX Cloud Silver
