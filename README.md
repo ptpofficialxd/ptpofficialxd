@@ -2,7 +2,7 @@
 - 🌱 **Frontend :** HTML/CSS, JavaScript, jQuery, Node.ja
 - 🏠 **Backend :** Java, Python
 - 📊 **Database :** MongoDB, MySQL
-#### Accessories/Gears
+#### Gears & Accessories
 - **Mouse :** Logitech G Pro X Superlight
 - **Mouse Pad :** Artisan FX Zero Soft XL, VAXEE PA, Xtrfy GP4 Retro, Steelseries QCK+
 - **Keyboard :** Royal Kludge RK84 with Gateron Milky Yellow Lubed, Kingston HyperX Alloy FPS
